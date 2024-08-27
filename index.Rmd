@@ -1,0 +1,42 @@
+---
+title: "MSc.Ana Laura Hernández-Ledesma"
+image: "ALHL.jpeg"
+links:
+  #- label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+  #  url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
+  - label: '`r fontawesome::fa(name = "twitter", fill = "#be2525")` Twitter'
+    url: "https://twitter.com/annhled6/"
+  - label: '`r fontawesome::fa(name = "github", fill = "#be2525")` Github'
+    url: "https://github.com/annhled6/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "#be2525")` Mail'
+    url: "mailto:ealhernandezledesma@liigh.unam.mx"
+  - label: '`r fontawesome::fa(name = "user", fill = "#be2525")` CV'
+    url: "https://annhled.github.io/CV/cv_ECoss.html"
+  - label: '`r fontawesome::fa(name = "newspaper", fill = "#be2525")` ORCID'
+    url: "https://orcid.org/0000-0002-8819-7471"    
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+Ph.D. candidate at Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México
+Member of Registro Mexicano de Lupus @[lupusrgmx](https://twitter.com/lupusrgmx)]
+
+#### **Education**
+
+**Ph.D. candidate** at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) with Dr. @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera)
+January 2021 - to date
+
+**MSc. in  Neurometabolism** | @[Facultad de Medicina, Universidad Autónoma de Querétaro](https://twitter.com/UAQmx), Mexico | 2015 - 2017
+
+**Bc. Biotechnology** | @[Facultad de Química, Universidad Autónoma de Querétaro](https://twitter.com/UAQmx), Mexico | | 2009 - 2013
+
+#### **Experience**
+
+Member of the @[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html),  @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[RIABIO](https://twitter.com/RiaBioNet) 
+
