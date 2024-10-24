@@ -11,7 +11,7 @@ links:
   - label: '`r fontawesome::fa(name = "envelope", fill = "#be2525")` Mail'
     url: "mailto:ealhernandezledesma@liigh.unam.mx"
   - label: '`r fontawesome::fa(name = "user", fill = "#be2525")` CV'
-    url: "https://annhled.github.io/CV/cv_ECoss.html"
+    url: "https://github.com/annhled6/annhled.github.io/CV_2024.html"
   - label: '`r fontawesome::fa(name = "newspaper", fill = "#be2525")` ORCID'
     url: "https://orcid.org/0000-0002-8819-7471"    
 output:
